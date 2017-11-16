@@ -1,0 +1,2 @@
+digit = 97812340987123409812340
+print len(digit)
